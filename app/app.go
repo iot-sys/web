@@ -5,7 +5,7 @@ import (
 	"strconv"
 
 	"github.com/gorilla/mux"
-	"github.com/tuckersGo/goWeb/web20/model"
+	"github.com/iot-sys/web/model"
 	"github.com/unrolled/render"
 )
 
